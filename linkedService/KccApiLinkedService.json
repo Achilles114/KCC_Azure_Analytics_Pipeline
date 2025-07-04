@@ -5,7 +5,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://data.gov.in/resource/cef25fe2-9231-4128-8aec-2c948fedd43f",
+			"url": "https://api.data.gov.in/resource/cef25fe2-9231-4128-8aec-2c948fedd43f",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
