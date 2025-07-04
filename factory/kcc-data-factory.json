@@ -1,0 +1,9 @@
+{
+	"name": "kcc-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35133246-006c-4159-a1da-6430ff19c13f",
+		"tenantId": "865cbc75-b74b-4e4a-915a-776db8c7743d"
+	}
+}
