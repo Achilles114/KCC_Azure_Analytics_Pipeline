@@ -1,0 +1,13 @@
+{
+	"name": "KccApiLinkedService",
+	"properties": {
+		"description": "Link Service to Government API",
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://api.data.gov.in/resource/cef25fe2-9231-4128-8aec-2c948fedd43f",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
