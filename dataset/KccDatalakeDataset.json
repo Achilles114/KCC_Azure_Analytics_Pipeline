@@ -1,0 +1,19 @@
+{
+	"name": "KccDatalakeDataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "KccdataLakeLinkedService",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "kcc_data.json",
+				"fileSystem": "raw-data"
+			}
+		},
+		"schema": {}
+	}
+}
